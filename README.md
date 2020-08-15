@@ -54,6 +54,5 @@ train_generator = train_datagen.flow_from_directory(
 -  I have used the picture of myself and the model predicted human, so the model is accurate in classification of human vs horse.
 
 - **Snapshot of the Result**
-
 ![Image](https://res.cloudinary.com/dge89aqpc/image/upload/v1597118304/oUt_fiiyi9.png)
 
